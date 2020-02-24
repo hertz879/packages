@@ -1,0 +1,25 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2011.10.08.19.51.12;	author root;	state Exp;
+branches;
+next	;
+
+
+desc
+@Pakete für den Studio-Rechner
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@xserver-xorg-input-elographics
+@

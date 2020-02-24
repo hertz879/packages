@@ -1,0 +1,54 @@
+head	1.2;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.2
+date	2012.01.10.17.34.14;	author root;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2011.10.08.19.51.12;	author root;	state Exp;
+branches;
+next	;
+
+
+desc
+@Pakete für alle Systeme
+@
+
+
+1.2
+log
+@wird fuer rsnapshot benoetigt
+@
+text
+@locales
+bash-completion
+vim
+lvm2
+rcs
+mdadm
+wget
+linux-image-amd64
+grub2
+busybox
+console-tools
+console-data
+console-setup
+libblkid1
+rsync
+sudo
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d15 2
+@

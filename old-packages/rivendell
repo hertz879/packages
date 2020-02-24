@@ -1,0 +1,13 @@
+nfs-kernel-server
+mysql-server
+libhpi
+libhpiudp
+qt3-qtconfig
+lame
+twolame
+libqt3-mt-mysql
+apache2
+curl
+
+# built locally
+# libhpi_4.06.00-1_all.deb  libhpi-dev_4.06.00-1_all.deb  libhpiudp_4.06.00-1_all.deb

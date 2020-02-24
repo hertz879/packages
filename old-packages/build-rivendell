@@ -1,0 +1,12 @@
+libhpi-dev
+libsndfile1-dev
+libcdio-paranoia-dev
+libcdparanoia-dev
+libcurl4-gnutls-dev
+libsoundtouch1-dev
+libflac++-dev
+libmad0-dev
+libmp3lame-dev
+libtwolame-dev
+linux-headers-amd64
+libhpi-dev

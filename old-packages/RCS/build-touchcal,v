@@ -1,0 +1,25 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2011.10.08.13.54.40;	author root;	state Exp;
+branches;
+next	;
+
+
+desc
+@Paket-Abhängigkeiten zum kompilieren von Touchcal
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@libncurses5-dev
+@

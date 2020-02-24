@@ -1,0 +1,42 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2011.10.08.19.51.12;	author root;	state Exp;
+branches;
+next	;
+
+
+desc
+@Notwendige Pakete um den ASI HPI Treiber zu bauen
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@qemu-kvm
+debhelper
+build-essential 
+fakeroot
+autoconf 
+automake1.9 
+dpatch libtool 
+libqt3-mt-dev
+libasound2-dev
+libsamplerate0-dev
+libvorbis-dev
+libtag1-dev
+libid3-dev
+libflac-dev
+libpam0g-dev
+libhpi-dev
+libsndfile1-dev
+
+@

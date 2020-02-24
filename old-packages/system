@@ -1,0 +1,16 @@
+locales
+bash-completion
+vim
+lvm2
+rcs
+mdadm
+wget
+linux-image-amd64
+grub2
+busybox
+console-tools
+console-data
+console-setup
+libblkid1
+rsync
+sudo

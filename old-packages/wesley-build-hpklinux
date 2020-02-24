@@ -1,0 +1,19 @@
+debhelper
+build-essential 
+fakeroot
+autoconf 
+automake1.9 
+dpatch 
+libtool 
+# libqt3-mt-dev
+libasound2-dev
+libsamplerate0-dev
+libvorbis-dev
+libtag1-dev
+libid3-dev
+libflac-dev
+libpam0g-dev
+# libhpi-dev
+libsndfile1-dev
+module-assistant
+linux-headers-amd64

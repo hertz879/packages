@@ -1,0 +1,132 @@
+head	1.7;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.7
+date	2012.02.02.14.10.07;	author root;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2011.10.28.21.57.11;	author root;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2011.10.28.21.34.59;	author root;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2011.10.28.20.37.45;	author root;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2011.10.28.20.31.09;	author root;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2011.10.08.20.30.43;	author root;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2011.10.08.19.51.12;	author root;	state Exp;
+branches;
+next	;
+
+
+desc
+@Pakete für Desktopsysteme (Studio, Einpflegerechner)
+@
+
+
+1.7
+log
+@wird fuer X ueber ssh benoetigt
+@
+text
+@idesk
+openbox
+openbox-themes
+obconf
+leafpad
+desktop-base
+lxappearance
+tango-icon-theme
+arora
+usbutils
+msttcorefonts
+arandr
+suckless-tools
+xdm
+rxvt-unicode
+tint2
+pcmanfm
+xtrlock
+gnome-icon-theme
+easytag
+imagemagick
+xauth
+@
+
+
+1.6
+log
+@hilfreich fuer den umgang mit bildern
+@
+text
+@d22 1
+@
+
+
+1.5
+log
+@notwendig fuer bearbeiten der tags
+@
+text
+@d21 1
+@
+
+
+1.4
+log
+@pcmanfm benoetigt gnome icons, laedt die lxde/tango icons leider nicht
+@
+text
+@d20 1
+@
+
+
+1.3
+log
+@unicode version ist besser und reicht vollkommen
+@
+text
+@d19 1
+@
+
+
+1.2
+log
+@Helfer-Tool zur Bildschirmsperrung nachgetragen
+@
+text
+@d15 1
+a15 1
+rxvt
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d18 1
+@

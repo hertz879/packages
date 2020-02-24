@@ -1,0 +1,33 @@
+head	1.1;
+access;
+symbols;
+locks
+	root:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.12.17.17.29.34;	author root;	state Exp;
+branches;
+next	;
+
+
+desc
+@New basis package file
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@rcs
+vim
+unp
+screen
+ssh
+acl
+logrotate
+gdisk
+@
